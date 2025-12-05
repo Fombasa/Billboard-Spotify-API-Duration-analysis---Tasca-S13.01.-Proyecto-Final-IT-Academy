@@ -6,7 +6,6 @@ Se divide en:
 
 1. **Lista de dataframes en orden de aparición**, con una breve descripción.
 2. **Categorías de columnas** (explicadas en detalle).
-3. **Notas clave sobre la transformación de datos**.
 
 ---
 
@@ -160,13 +159,6 @@ Subset final presente en `spotify_clean_for_anova.csv`.
 - **position**  
 - **explicit**  
 - **year**
-
----
-
-# 🔹 3. Notas clave sobre la transformación
-
-- La integración Spotify genera un ~15% de registros sin coincidencia; estos se separan y el análisis continúa con el 85% restante.
-- La columna `era_tecnologica` permite comparar tendencias entre Vinilo, CD, MP3 y Streaming.
 
 ---
 
