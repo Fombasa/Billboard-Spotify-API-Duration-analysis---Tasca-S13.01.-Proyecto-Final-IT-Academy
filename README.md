@@ -2,8 +2,10 @@
 
 ## 1. Introducción
 
-Este proyecto integra datos de un dataset de **Billboard Hot 100** por el periodo 1958-2021, con metadatos musicales de **Spotify API** para analizar tendencias historicas, generos, duraciones, popularidad y diferencias entre eras tecnologicas.
+Este proyecto integra datos de canciones, a partir de un dataset de **Billboard Hot 100** por el periodo 1958-2021, con metadatos musicales de **Spotify API** para analizar tendencias historicas de generos, duraciones, popularidad y diferencias entre eras tecnologicas (vinilo, cd, mp3 y streaming).
+
 Link to dataset: https://www.kaggle.com/datasets/dhruvildave/billboard-the-hot-100-songs?resource=download
+
 Pipeline completa en 4 fases, con sus relativos dataframes.
 
 ---
