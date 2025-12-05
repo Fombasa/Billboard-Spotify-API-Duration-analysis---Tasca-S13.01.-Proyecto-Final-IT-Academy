@@ -1,4 +1,4 @@
-# Proyecto: Analisis Billboard + Spotify
+# Proyecto: Analisis Billboard + integracion Spotify API
 
 ## 1. Introducción
 
